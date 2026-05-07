@@ -1,8 +1,5 @@
 # About me:
-## My personal repository 😎🌞
-- [x] Write my bio
+## My personal repository
+
 - [ ] Update the task list
 - [ ] Start the script
-  
-### My Great Heading 
-~~I'm constantly enjoying the rain.~~
