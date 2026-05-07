@@ -1,4 +1,4 @@
-# About me:
+
 ## My personal repository
 
 - [ ] Update the task list
